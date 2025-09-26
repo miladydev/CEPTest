@@ -13,48 +13,63 @@ This policy applies to current students and employees.
 > knowledge and abilities. 
 
 **Cheating**
+
 Obtaining or attempting to get, or aiding another person to obtain, credit for work or improvement in performance evaluation by dishonest or deceptive means. Examples include, but are not limited to, self-plagiarism, impersonation, falsification, taking individual credit for group work, unauthorized collaborations and aids and undeclared AI use.  
 
 **Seneca business day**
+
 Monday to Friday, excluding statutory holidays or any other day Seneca has publicly acknowledged that it is closed.
 
 **Contract cheating**
+
 When a student submits academic work created by a third party as if it were their own for academic credit. It may involve a fee paid or an exchange of other items with a third party to complete the work.
 
 **Falsification/fabrication**
+
 Misrepresenting another student’s academic work, withholding or forging personal documentation (e.g., medical, academic, and placement information/records, or the unauthorized creation, alteration or reporting of false/inaccurate information in an educational activity) to gain an academic advantage.
 
 **Impersonation**
+
 Taking a test, an examination or any other assessment on behalf of another individual in a physical or virtual setting, with their knowledge and consent. 
 
 **Official transcript**
+
 A detailed record of a student’s academic history carries an authorized signature and can be requested for a fee.
 
 **Plagiarism**
+
 Using another individual’s, group’s or organization’s work (e.g., words, images, ideas, logic, phrases, signatures or computations) as is or modified by replacing words or phrases with synonyms and presenting it as one’s own, without properly citing the source. This may also include self-plagiarism. 
 
 **Self-plagiarism**
+
 The unauthorized re-use of one’s work from previous assignments.
 
 **Student record**
+
 A documented history of a student’s educational progress found in the Student Centre may include electronic notations/service indicators (e.g., outstanding fees). Electronic notations/service indicators are not visible on a student’s official transcript. 
 
 **Unauthorized aid**
+
 Using non-approved supports to complete coursework or assessments, including, but not limited to, peer collaborations, artificial intelligence technology, the internet, smartphones, etc.
 
 **Undeclared AI use**
+
 Using artificial intelligence to generate part or all of an assessment without a disclosure statement outlining how and to what extent the artificial technology was used.
 
 **Seneca’s Academic Integrity Program**
+
 A holistic, integrated model grounded in teaching and learning that requires the engagement and participation of students and various academic and service areas.
 
 **Academic integrity violation**
+
 An attempt to gain an unfair advantage in any formal assessment, such as coursework and exams.
 
-**Hybrid delivery** 
+**Hybrid delivery**
+
 When some parts of a program or course are delivered online, and others are in person and require students to come to campus to complete them.
 
 **Flexible course delivery**
+
 When professors teach a class to students in a classroom or lab and broadcast it to other students learning online simultaneously; in courses delivered in a flexible format, students have the choice to come to campus for an on-campus experience or learn remotely online synchronously or asynchronously. 
 
 ##### Policy
